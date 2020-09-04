@@ -1,3 +1,6 @@
-# 01.Python
+# 01.Python Basic
  
- This repository contains various template to do data engineering/analysis/modeling
+ This repository contains various coding to do basic Python:
+ Pandas
+ tkinster
+ Basic Data Manipulation
